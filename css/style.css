@@ -14,6 +14,10 @@ h4{
 	padding-top: 20px;
 }
 
+h4:hover{
+	color: darkgreen;
+}
+
 .fav{
 	font-size: 17px;
 	color: orange
@@ -32,6 +36,10 @@ span{
 	float: left;
 }
 
+span:hover{
+	color: darkred;
+}
+
 .right{
 	text-align: right;
 }
@@ -39,6 +47,10 @@ span{
 .credit{
 	text-align: left;
 	font-weight: bold;
+}
+
+.color:hover{
+	color: darkred;
 }
 
 footer{
