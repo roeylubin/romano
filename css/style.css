@@ -1,15 +1,47 @@
 body{
 	background-color: white;
-	margin: 50px;
+	margin: 50px auto;
+	max-width: 800px;
+	text-align: right;
+	line-height: 15px;
+
 
 }
 
 h4{
 	font-size: 16px;
-	color: darkred
+	color: darkred;
+	padding-top: 20px;
 }
 
 .fav{
 	font-size: 17px;
 	color: orange
+}
+
+.left{
+	text-align: left;
+	font-weight: bold;
+}
+
+.price{
+	text-align: left;
+}
+
+span{
+	float: left;
+}
+
+.right{
+	text-align: right;
+}
+
+.credit{
+	text-align: left;
+	font-weight: bold;
+}
+
+footer{
+	margin: 50px 0;
+	line-height: 10px;
 }
