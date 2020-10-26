@@ -1,11 +1,16 @@
+@font-face{
+	src: url(../fonts/AnyConv.com__GT-Super-Display-Regular-Trial.woff);
+	font-family: super;
+	font-weight: normal;
+	font-style: normal;
+}
+
 body{
 	background-color: white;
 	margin: 50px auto;
 	max-width: 800px;
 	text-align: right;
 	line-height: 15px;
-
-
 }
 
 h4{
