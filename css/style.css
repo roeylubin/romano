@@ -7,14 +7,18 @@
 
 body{
 	background-color: white;
-	margin: 50px auto;
+	margin: 40px auto;
 	max-width: 800px;
 	text-align: right;
 	line-height: 15px;
 }
 
+p{
+	font-size: 20px;
+}
+
 h4{
-	font-size: 16px;
+	font-size: 20px;
 	color: darkred;
 	padding-top: 20px;
 }
